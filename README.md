@@ -9,8 +9,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/charishma-tech/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/charishma-tech/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/charishma-tech/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/charishma-tech/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 <!---LeetCode Topics End-->
